@@ -68,15 +68,15 @@ FILL IN
 // ************* main factors to be optimised above ************
 
 // need to limit the colours displayed for this test, come back to this
-/color1 = "gabor-circle-0.png"
-/color2 = "gabor-circle-22.png"
-/color3 = "gabor-circle-45.png"
-/color4 = "gabor-circle-67.png"
-/color5 = "gabor-circle-90.png"
-/color6 = "gabor-circle-112.png"
-/color7 = "gabor-circle-134.png"
-/color8 = "gabor-circle-158.png"
-/color9 = "gabor-circle-180.png"
+/color1 = #ff0000
+/color2 = #ffaa00
+/color3 = #aaff00
+/color4 = #00ff00
+/color5 = #00ffa9
+/color6 = #00a9ff
+/color7 = #0000ff
+/color8 = #aa00ff
+/color9 = #ff00aa
 
 // various counters and such
 /trial_number = 0
@@ -202,7 +202,7 @@ FILL IN
 
 <expt main>
 / preinstructions = (start)
-/ blocks = [1 = instructions; 2-10 = practice; 11 = end_practice; 12-264 = experiment; 265 = followup]
+/ blocks = [1 = consent; 2 = calibration; 3 = instructions; 4-12 = practice; 13 = end_practice; 14-266 = experiment; 267 = followup]
 / postinstructions = (end)
 </expt>
 
