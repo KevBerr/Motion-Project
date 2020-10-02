@@ -135,60 +135,60 @@
 		// present_during_colour1 and present_during_colour2 each have a unique combination of colours for each trial
 		// they are specified in 'BaseScript.iqx'
 		if(item.present_during_colour1.item(counter.order_during.selectedvalue) == "1"){
-			picture.F1.item = values.color1;
+			picture.F1.item = values.gabor1;
 			values.Color_1 = 1;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "2"){
-			picture.F1.item = values.color2;
+			picture.F1.item = values.gabor2;
 			values.Color_1 = 2;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "3"){
-			picture.F1.item = values.color3;
+			picture.F1.item = values.gabor3;
 			values.Color_1 = 3;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "4"){
-			picture.F1.item = values.color4;
+			picture.F1.item = values.gabor4;
 			values.Color_1 = 4;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "5"){
-			picture.F1.item = values.color5;
+			picture.F1.item = values.gabor5;
 			values.Color_1 = 5;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "6"){
-			picture.F1.item = values.color6;
+			picture.F1.item = values.gabor6;
 			values.Color_1 = 6;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "7"){
-			picture.F1.item = values.color7;
+			picture.F1.item = values.gabor7;
 			values.Color_1 = 7;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "8"){
-			picture.F1.item = values.color8;
+			picture.F1.item = values.gabor8;
 			values.Color_1 = 8;
 		}else{
-			picture.F1.item = values.color9;
+			picture.F1.item = values.gabor9;
 			values.Color_1 = 9;
 		}
 		
 		if(item.present_during_colour2.item(counter.order_during.selectedvalue) == "1"){
-			picture.F2.item = values.color1;
+			picture.F2.item = values.gabor1;
 			values.Color_2 = 1;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "2"){
-			picture.F2.item = values.color2;
+			picture.F2.item = values.gabor2;
 			values.Color_2 = 2;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "3"){
-			picture.F2.item = values.color3;
+			picture.F2.item = values.gabor3;
 			values.Color_2 = 3;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "4"){
-			picture.F2.item = values.color4;
+			picture.F2.item = values.gabor4;
 			values.Color_2 = 4;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "5"){
-			picture.F2.item = values.color5;
+			picture.F2.item = values.gabor5;
 			values.Color_2 = 5;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "6"){
-			picture.F2.item = values.color6;
+			picture.F2.item = values.gabor6;
 			values.Color_2 = 6;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "7"){
-			picture.F2.item = values.color7;
+			picture.F2.item = values.gabor7;
 			values.Color_2 = 7;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "8"){
-			picture.F2.item = values.color8;
+			picture.F2.item = values.gabor8;
 			values.Color_2 = 8;
 		}else{
-			picture.F2.item = values.color9;
+			picture.F2.item = values.gabor9;
 			values.Color_2 = 9;
 		}
 		
@@ -204,60 +204,60 @@
 		values.Position_2 = values.angle_3;
 		
 		if(item.present_during_colour1.item(counter.order_during.selectedvalue) == "1"){
-			picture.F1.item = values.color1;
+			picture.F1.item = values.gabor1;
 			values.Color_1 = 1;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "2"){
-			picture.F1.item = values.color2;
+			picture.F1.item = values.gabor2;
 			values.Color_1 = 2;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "3"){
-			picture.F1.item = values.color3;
+			picture.F1.item = values.gabor3;
 			values.Color_1 = 3;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "4"){
-			picture.F1.item = values.color4;
+			picture.F1.item = values.gabor4;
 			values.Color_1 = 4;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "5"){
-			picture.F1.item = values.color5;
+			picture.F1.item = values.gabor5;
 			values.Color_1 = 5;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "6"){
-			picture.F1.item = values.color6;
+			picture.F1.item = values.gabor6;
 			values.Color_1 = 6;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "7"){
-			picture.F1.item = values.color7;
+			picture.F1.item = values.gabor7;
 			values.Color_1 = 7;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "8"){
-			picture.F1.item = values.color8;
+			picture.F1.item = values.gabor8;
 			values.Color_1 = 8;
 		}else{
-			picture.F1.item = values.color9;
+			picture.F1.item = values.gabor9;
 			values.Color_1 = 9;
 		}
 		
 		if(item.present_during_colour2.item(counter.order_during.selectedvalue) == "1"){
-			picture.P1.item = values.color1;
+			picture.P1.item = values.gabor1;
 			values.Color_2 = 1;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "2"){
-			picture.P1.item = values.color2;
+			picture.P1.item = values.gabor2;
 			values.Color_2 = 2;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "3"){
-			picture.P1.item = values.color3;
+			picture.P1.item = values.gabor3;
 			values.Color_2 = 3;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "4"){
-			picture.P1.item = values.color4;
+			picture.P1.item = values.gabor4;
 			values.Color_2 = 4;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "5"){
-			picture.P1.item = values.color5;
+			picture.P1.item = values.gabor5;
 			values.Color_2 = 5;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "6"){
-			picture.P1.item = values.color6;
+			picture.P1.item = values.gabor6;
 			values.Color_2 = 6;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "7"){
-			picture.P1.item = values.color7;
+			picture.P1.item = values.gabor7;
 			values.Color_2 = 7;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "8"){
-			picture.P1.item = values.color8;
+			picture.P1.item = values.gabor8;
 			values.Color_2 = 8;
 		}else{
-			picture.P1.item = values.color9;
+			picture.P1.item = values.gabor9;
 			values.Color_2 = 9;
 		}
 		
@@ -274,60 +274,60 @@
 			
 		
 		if(item.present_during_colour1.item(counter.order_during.selectedvalue) == "1"){
-			picture.P1.item = values.color1;
+			picture.P1.item = values.gabor1;
 			values.Color_1 = 1;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "2"){
-			picture.P1.item = values.color2;
+			picture.P1.item = values.gabor2;
 			values.Color_1 = 2;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "3"){
-			picture.P1.item = values.color3;
+			picture.P1.item = values.gabor3;
 			values.Color_1 = 3;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "4"){
-			picture.P1.item = values.color4;
+			picture.P1.item = values.gabor4;
 			values.Color_1 = 4;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "5"){
-			picture.P1.item = values.color5;
+			picture.P1.item = values.gabor5;
 			values.Color_1 = 5;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "6"){
-			picture.P1.item = values.color6;
+			picture.P1.item = values.gabor6;
 			values.Color_1 = 6;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "7"){
-			picture.P1.item = values.color7;
+			picture.P1.item = values.gabor7;
 			values.Color_1 = 7;
 		}else if (item.present_during_colour1.item(counter.order_during.selectedvalue) == "8"){
-			picture.P1.item = values.color8;
+			picture.P1.item = values.gabor8;
 			values.Color_1 = 8;
 		}else{
-			picture.P1.item = values.color9;
+			picture.P1.item = values.gabor9;
 			values.Color_1 = 9;
 		}
 		
 		if(item.present_during_colour2.item(counter.order_during.selectedvalue) == "1"){
-			picture.P2.item = values.color1;
+			picture.P2.item = values.gabor1;
 			values.Color_2 = 1;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "2"){
-			picture.P2.item = values.color2;
+			picture.P2.item = values.gabor2;
 			values.Color_2 = 2;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "3"){
-			picture.P2.item = values.color3;
+			picture.P2.item = values.gabor3;
 			values.Color_2 = 3;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "4"){
-			picture.P2.item = values.color4;
+			picture.P2.item = values.gabor4;
 			values.Color_2 = 4;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "5"){
-			picture.P2.item = values.color5;
+			picture.P2.item = values.gabor5;
 			values.Color_2 = 5;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "6"){
-			picture.P2.item = values.color6;
+			picture.P2.item = values.gabor6;
 			values.Color_2 = 6;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "7"){
-			picture.P2.item = values.color7;
+			picture.P2.item = values.gabor7;
 			values.Color_2 = 7;
 		}else if (item.present_during_colour2.item(counter.order_during.selectedvalue) == "8"){
-			picture.P2.item = values.color8;
+			picture.P2.item = values.gabor8;
 			values.Color_2 = 8;
 		}else{
-			picture.P2.item = values.color9;
+			picture.P2.item = values.gabor9;
 			values.Color_2 = 9;
 		}
 	}
